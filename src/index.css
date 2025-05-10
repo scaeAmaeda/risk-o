@@ -45,7 +45,9 @@ html, body, #root {
 }
 
 .menu-item:hover > Button{
-  background-color: cyan;
+  background-color: #207C4E;
+  border:2px solid black;
+  border-color: black;
 }
 
 .main-ecran {
